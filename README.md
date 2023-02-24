@@ -1,5 +1,6 @@
 Our program take a input for the name, as well as another input for the age. It then tells the user their age.
 Group Members: Joshua Krymgold, Siyena Gezahegn
+In order to use our code clone the repository and run the python code with different inputs.
 
 We chose the MIT License because we do not have a problem with anybody using this code in their own project. Therefore it was a great fit as it allows for anyone to use our product for commerical-use, modificatoin, distribution, or for private use. As we do not care how it is used and the MIT License does not include anything about liability or warranties, it makes it a great fit for use with our project
 
